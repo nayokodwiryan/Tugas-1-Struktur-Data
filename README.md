@@ -14,6 +14,9 @@ Create Array &amp; Linked list
 
           Pendeklarasian tersebut dengan menggunakan bahasa pemrograman Java. 
 
-  6. Buatlah deklarasi linked list yang memiliki list (10, 20, 30, 40, 50)? 
+  5. Buatlah deklarasi linked list yang memiliki list (10, 20, 30, 40, 50)? 
 
           Pendeklarasian tersebut dengan menggunakan bahasa pemrograman Java. 
+
+
+Youtube Link : https://youtu.be/Q1LKBagFIR4?si=-7ilnE9gsP93KIvy
